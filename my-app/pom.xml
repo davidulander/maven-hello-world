@@ -9,7 +9,7 @@
   <url>http://maven.apache.org</url>
 
   <properties>
-      <!-- This pr will be set by the Maven Dependency plugin -->
+      <!-- This project will be set by the Maven Dependency plugin Testtst -->
       <annotatedJdk>${org.checkerframework:jdk8:jar}</annotatedJdk>
   </properties>
 
